@@ -13,13 +13,15 @@ A collection of research reports and practical analyses on fundamental OS concep
 - Networking Protocols
 - OS Security
 
-
-
 ## Usage
 This repository is suitable for:
 - Students learning about operating systems
 - Developers reviewing core OS concepts
 - Educators seeking examples of academic reports
-
+  
+## 👤 Author  
+**Eijkeyal Pakhrin**  
+- GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
+- LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyalpakhrin)
 
 **Disclaimer:** This repository contains academic work completed for a Network Operating Systems (NOS) module. It is intended for educational and reference purposes.
