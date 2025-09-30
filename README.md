@@ -23,5 +23,5 @@ This repository is suitable for:
 **Eijkeyal Pakhrin**  
 - GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
 - LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyalpakhrin)
-
+-  Credly: [Eijkeyal Pakhrin](https://www.credly.com/users/eijkeyal-pakhrin)
 **Disclaimer:** This repository contains academic work completed for a Network Operating Systems (NOS) module. It is intended for educational and reference purposes.
